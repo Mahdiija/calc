@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>age calculate</title>
+</head>
+<body>
+    <div class="container">
+        <form>
+            <div class="input">
+                <div class="block">
+                    <p class="title">day</p>
+                    <input type="text">
+                </div>
+                <div class="block">
+                    <p class="title">month</p>
+                    <input type="text" placeholder="ddsdsdf">
+                </div>
+                <div class="block">
+                    <p class="title">year</p>
+                    <input type="text">
+                </div>
+                
+            </div>
+        </form>
+        <p>kjkluglyvfglyuf</p>
+    </div>
+</body>
+</html>
